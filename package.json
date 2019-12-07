@@ -1,0 +1,25 @@
+{
+  "name": "dealer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasz-madej/dealer.git"
+  },
+  "author": "Lukasz Madej",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukasz-madej/dealer/issues"
+  },
+  "homepage": "https://github.com/lukasz-madej/dealer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
